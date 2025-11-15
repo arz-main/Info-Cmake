@@ -1,0 +1,3 @@
+/home/arz/Documents/Coding/Cmake/project/build/CMakeFiles/helloworld.dir
+/home/arz/Documents/Coding/Cmake/project/build/CMakeFiles/edit_cache.dir
+/home/arz/Documents/Coding/Cmake/project/build/CMakeFiles/rebuild_cache.dir

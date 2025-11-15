@@ -1,0 +1,7 @@
+project/
+├── CMakeLists.txt
+├── src/
+│   ├── main.cpp
+│   └── helloworld.cpp
+└── include/
+    └── helloworld.h
