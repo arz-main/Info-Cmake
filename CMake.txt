@@ -5,3 +5,10 @@ project/
 │   └── helloworld.cpp
 └── include/
     └── helloworld.h
+
+mkdir build
+cd build
+cmake ..
+make
+
+that's it
